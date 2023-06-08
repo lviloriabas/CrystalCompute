@@ -1,0 +1,4 @@
+venv/
+ilustraciones/
+.vscode/
+notebooks/.ipynb_checkpoints
